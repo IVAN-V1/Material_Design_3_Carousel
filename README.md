@@ -11,7 +11,9 @@
 
 Bienvenido a mi proyecto emocionante. Aquí puedes ver un video de demostración:
 
-[Ver el video de demostración](enlace_al_video.mp4)
+<p align="center">
+  <img src="./capturas/desmostracion.gif" alt="Vista previa del video" />
+</p>
 
 ## Instrucciones de Uso
 
