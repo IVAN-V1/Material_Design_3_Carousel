@@ -6,14 +6,14 @@
 
 # Demostracion 
 
+<p align="center">
+  <img src="./capturas/demostracion.gif" alt="Vista previa del video" />
+</p>
 
 # Mi Proyecto
 
 Bienvenido a mi proyecto emocionante. Aquí puedes ver un video de demostración:
 
-<p align="center">
-  <img src="./capturas/desmostracion.gif" alt="Vista previa del video" />
-</p>
 
 ## Instrucciones de Uso
 
