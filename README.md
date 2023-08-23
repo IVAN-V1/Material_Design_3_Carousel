@@ -7,13 +7,8 @@
 # Demostracion 
 
 <p align="center">
-  <img src="./capturas/demostracion.gif" alt="Vista previa del video" />
+  <img src="./capturas/demostracion.gif" alt="Vista previa del video" width="300" height="700" />
 </p>
-
-# Mi Proyecto
-
-Bienvenido a mi proyecto emocionante. Aquí puedes ver un video de demostración:
-
 
 ## Instrucciones de Uso
 
