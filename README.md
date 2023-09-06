@@ -15,7 +15,4 @@
 ## Instrucciones de Uso
 
 1. Clone el repositorio.
-2. Instala las dependencias.
-3. Ejecuta la aplicación.
-
-¡Espero que disfrutes del video y encuentres el proyecto interesante!
+2. Ejecuta la aplicación.
