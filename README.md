@@ -1,6 +1,6 @@
 # Carousel
 
-./capturas/Buttomsheet.png
+![Buttomsheet](capturas/Carousel.png)
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 | -------- | -------- | -------- | 
